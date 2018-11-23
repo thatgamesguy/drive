@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>102</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>104</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>615</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4444</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>10980</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11481</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8714</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8716</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9351</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11482</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8722</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8724</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9449</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11483</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8730</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8732</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9540</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11484</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8738</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8740</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9857</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11485</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8746</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8748</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>9959</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11486</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8754</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8756</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10159</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11487</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8762</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8764</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10301</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>11488</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
